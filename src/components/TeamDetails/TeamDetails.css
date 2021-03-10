@@ -1,0 +1,30 @@
+.detailBanner {
+    position: relative;
+    text-align: center;
+}
+
+.detailBanner .centered {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+}
+.detailBannerImg{
+    width: 100%;
+}
+
+.conditional-img img{
+    width: 100%;
+}
+@media only screen and (max-width: 600px) {
+    .detailBannerImg{
+        width: 100%;
+        height: 300px;
+    }
+    .centered{
+        width: 150px;
+    }
+    .conditional-img img{
+        width: 100%;
+    }
+}
