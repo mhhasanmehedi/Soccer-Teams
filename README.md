@@ -1,9 +1,9 @@
 <h1>Project Name: React-Router</h1>
+<br>
 <p>Netlify Live Link: <a href="https://adoring-torvalds-fcd200.netlify.app/"> https://adoring-torvalds-fcd200.netlify.app/</a>.</p>
+<p>HomePage API Link: <a href="https://www.thesportsdb.com/api/v1/json/1/search_all_teams.php?l=English%20Premier%20League"> https://www.thesportsdb.com/api/v1/json/1/search_all_teams.php?l=English%20Premier%20League</a>.</p>
 
-HomePage API Link: (https://www.thesportsdb.com/api/v1/json/1/search_all_teams.php?l=English%20Premier%20League).
-
-Details By Id: (https://www.thesportsdb.com/api/v1/json/1/lookupteam.php?id=133600).
+<p>Details By Id: <a href="https://www.thesportsdb.com/api/v1/json/1/lookupteam.php?id=133600">https://www.thesportsdb.com/api/v1/json/1/lookupteam.php?id=133600</a></p>
 
 
 
