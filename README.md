@@ -1,8 +1,5 @@
 <h1>Project Name: React-Router</h1>
-
-
-
-Netlify Live Link: (https://adoring-torvalds-fcd200.netlify.app/).
+<p>Netlify Live Link: <a href="https://adoring-torvalds-fcd200.netlify.app/"> https://adoring-torvalds-fcd200.netlify.app/</a>.</p>
 
 HomePage API Link: (https://www.thesportsdb.com/api/v1/json/1/search_all_teams.php?l=English%20Premier%20League).
 
