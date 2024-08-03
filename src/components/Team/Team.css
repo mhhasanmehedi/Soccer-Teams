@@ -1,0 +1,25 @@
+.single-team-box {
+    margin: 20px 10px;
+    border-radius: 5px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+}
+
+.single-team-box button i {
+    margin-left: 4px;
+}
+
+.single-team-box button {
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3);
+}
+
+.single-team-box button:hover {
+    transform: translateX(3px);
+}
+
+@media only screen and (max-width: 600px) {
+    img{
+        width: 60%;
+    }
+}
